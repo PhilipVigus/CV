@@ -48,12 +48,14 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 **Home-maker** (August 2018 - April 2019)
 
 **Aspire** (February 2018 – July 2018)
+
 *Welfare Benefits Administrator*
 
 - First point of contact for clients engaging with the service, helping to understand their needs and how the service could help them
 - Maintaining electronic and paper records, ensuring accuracy as these were often used as the basis for legal processes and procedures
 
 **Noah's Ark Children's Hospice** (May 2016 – January 2018)
+
 *Voluntary Roles*
 
 - Proofreading documents, researching potential donors, updating the corporate database, editing the charity's website, creating and scheduling social media posts, producing graphics for online and paper use
@@ -61,13 +63,14 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 **Unable to work due to ill health** (November 2012 – April 2016)
 
 **OCN London**
+
 *Quality Reviewer* (October 2009 – October 2012)
 
 - Managing a caseload of 150+ centres across London
-- Developing relationships with clients in order to grow their business and improve the quality of their provision
+- Developing relationships with clients in order to grow their businesses and improve the quality of their provision
 - Writing detailed reports, ensuring accuracy and readability
 - Handling complex queries in person and over the telephone
-- Delivering training sessions to clients and internal colleagues
+- Delivering training sessions to clients and colleagues
 
 *Senior Administration Officer* (April 2007 – September 2009)
 
@@ -75,9 +78,10 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 - Reviewing and updating administrative processes to improve efficiency
 - Delivering training to moderators and centres
 
-**Various Temporary Positions** (Dec 2006 – March 2007)
+**Various temporary positions** (Dec 2006 – March 2007)
 
 **The National Star College** (September 2004 – November 2006)
+
 *IT Access Developer and Lecturer*
 
 - Evaluating learner assistive technology needs and training them how to use it as part of their day-to-day lives
@@ -85,22 +89,25 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 - Teaching students ICT
 
 **QinetiQ**
+
 *New Business Support Administrator* – (February 2002 - August 2003)
 
 - Producing customer bids and reports, liasing with external organisations and acting as the main point of contact for customers
 
 *Research Scientist* – (July 2000 - January 2002)
 
-- Carrying out defense research and evaluation using computer simulations, writing technical reports
+- Carrying out defense research and evaluation using computer simulations
+- Writing technical reports
 
 **Quidnunc**
+
 *Software Developer* (June 1999 – January 2000)
 
-- Implementing e-commerce sites
+- Implementing e-commerce websites
 
 ## Hobbies
 
-- Composing music - I love writing classical music and using with computers to synthesize live performances of my work
+- Composing music - I love writing classical music and using computers to synthesize live performances of my work
 - Roleplay games - I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
 - Films - from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax at the weekends and in the evenings
 - Travel - I enjoy experiencing other cultures, and have so far visited Canada, Sweden, Norway, Holland, South Africa and Uganda
