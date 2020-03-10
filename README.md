@@ -8,11 +8,11 @@ I am a driven, dedicated full-stack developer who loves to learn new things. I h
 
 **Communication skills**
 
-As a Quality Reviewer I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face while maintaining strong and constructive working relationships with my clients. At Aspire my primary role was working with clients over the telephone. They were often distressed, and I was able to help them explain their needs to us so we could assist them.
+I have excellent aural and written communication skills. One of my key abilities as a teacher was being able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face while maintaining strong and constructive working relationships with my clients. At Aspire my primary role was working with clients over the telephone. They were often distressed, and I was able to help them explain their needs to us so we could assist them.
 
 **Attention to detail**
 
-While working as an audio transcriber and captioner, I had to follow a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Noah's Ark I was often tasked with compiling lists of potential leads for the fundraising team to follow up. This required working my way through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. This work was directly responsible for identifying sources of thousands of pounds of donations.
+While working as an audio transcriber and captioner, I had to follow a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients I worked with were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I was often tasked with compiling lists of potential leads for the fundraising team to follow up. This required working my way through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
 
 **Quick and effective learner**
 
@@ -20,34 +20,34 @@ While working as an audio transcriber and captioner, I had to follow a detailed 
 
 ## Education
 
-#### Makers Academy (March - June 2020)
+#### Makers Academy (March – June 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Exeter (2003 - 2004)
+#### University of Exeter (2003 – 2004)
 
-PGCE  - Further Education (ICT)
+PGCE  – Further Education (ICT)
 
-#### University of Nottingham (1996 - 1999)
+#### University of Nottingham (1996 – 1999)
 
-Bachelor of Science (Hons.) - Computer Science (2.1)
+Bachelor of Science (Hons.) – Computer Science (2.1)
 
-#### Herford Regional College (1993 - 1995)
+#### Herford Regional College (1993 – 1995)
 
-A-levels - Maths(A), Chemistry(A), Physics(A)
+A-levels – Maths(A), Chemistry(A), Physics(A)
 
 ## Experience
 
-**Freelance Audio Transcriber and Captioner** (May - October 2019) 
+**Freelance Audio Transcriber and Captioner** (May – October 2019) 
 
 - Accurately transcribing and captioning often long and difficult to understand audio and video files
 
-**Home-maker** (August 2018 - April 2019)
+**Home-maker** (August 2018 – April 2019)
 
-**Aspire** (February 2018 – July 2018)
+**Aspire** (February 2018 – July 2018 fixed term contract)
 
 *Welfare Benefits Administrator*
 
@@ -74,8 +74,7 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 
 *Senior Administration Officer* (April 2007 – September 2009)
 
-- Coordinating the external moderation process and proofreading the resultant reports before they went to centres
-- Reviewing and updating administrative processes to improve efficiency
+- Coordinating, reviewing and updating the organisation's the external moderation process
 - Delivering training to moderators and centres
 
 **Various temporary positions** (Dec 2006 – March 2007)
@@ -84,19 +83,19 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 
 *IT Access Developer and Lecturer*
 
-- Evaluating learner assistive technology needs and training them how to use it as part of their day-to-day lives
+- Evaluating learner assistive technology needs and training them how to use equipment to help them access IT
 - Training staff to support students
 - Teaching students ICT
 
-**QinetiQ**
+**DERA/QinetiQ**
 
-*New Business Support Administrator* – (February 2002 - August 2003)
+*New Business Support Administrator* – (February 2002 – August 2003)
 
 - Producing customer bids and reports, liasing with external organisations and acting as the main point of contact for customers
 
-*Research Scientist* – (July 2000 - January 2002)
+*Research Scientist* – (July 2000 – January 2002)
 
-- Carrying out defense research and evaluation using computer simulations
+ Carrying out defense research and evaluation using computer simulations
 - Writing technical reports
 
 **Quidnunc**
@@ -107,8 +106,8 @@ A-levels - Maths(A), Chemistry(A), Physics(A)
 
 ## Hobbies
 
-- Composing music - I love writing classical music and using computers to synthesize live performances of my work
-- Roleplay games - I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
-- Films - from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax at the weekends and in the evenings
-- Travel - I enjoy experiencing other cultures, and have so far visited Canada, Sweden, Norway, Holland, South Africa and Uganda
+- **Composing music** – I love writing classical music and using computers to synthesize live performances of my work
+- **Roleplay games** – I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
+- **Films** – from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax at the weekends and in the evenings
+- **Travel** – I enjoy experiencing other cultures, and have so far visited Canada, Sweden, Norway, Holland, South Africa and Uganda
 
