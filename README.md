@@ -2,13 +2,13 @@
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer who loves to learn new things. I have spent the majority of my career working in education, initially as a teacher, before working in quality assurance where I worked with organisations across London to improve the quality of the courses they delivered. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of technology, being able to see a website or app growing in front of your eyes, and I want to be part of that process.
+I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as a teacher, before working in quality assurance where I worked with organisations across London to improve the quality of the courses they delivered. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that.
 
 ## Skills
 
 **Communication skills**
 
-I have excellent verbal and written communication skills. As a teacher I was able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face and in writing, while maintaining strong and constructive working relationships with my clients. At Aspire I worked with clients over the telephone. They were often distressed, and I was able to help them explain their needs to us so we could assist them.
+I have excellent verbal and written communication skills. As a teacher I was able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face and in writing, while maintaining strong and constructive working relationships with my clients. As a Welfare Benefits Advisor at Aspire I worked with clients over the telephone. They were often very distressed, and I was able to help them explain their needs to us so we could assist them.
 
 **Attention to detail**
 
@@ -16,7 +16,7 @@ While working as an audio transcriber and captioner, I had to follow a detailed 
 
 **Quick and effective learner**
 
- While working at Aspire I provided cover for an absent colleague and was able to get quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
+As Aspire I provided cover for an absent colleague and quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
 
 ## Education
 
