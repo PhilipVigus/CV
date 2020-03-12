@@ -8,15 +8,15 @@ I am a driven, dedicated full-stack developer who loves to learn new things. I h
 
 **Communication skills**
 
-I have excellent aural and written communication skills. One of my key abilities as a teacher was being able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face while maintaining strong and constructive working relationships with my clients. At Aspire my primary role was working with clients over the telephone. They were often distressed, and I was able to help them explain their needs to us so we could assist them.
+I have excellent verbal and written communication skills. As a teacher I was able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face and in writing, while maintaining strong and constructive working relationships with my clients. At Aspire I worked with clients over the telephone. They were often distressed, and I was able to help them explain their needs to us so we could assist them.
 
 **Attention to detail**
 
-While working as an audio transcriber and captioner, I had to follow a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients I worked with were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I was often tasked with compiling lists of potential leads for the fundraising team to follow up. This required working my way through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
+While working as an audio transcriber and captioner, I had to follow a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working my way through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity, and I was directly responsible for identifying sources of thousands of pounds of donations.
 
 **Quick and effective learner**
 
- While working at Aspire I provided cover for an absent colleague and was able to get up to speed and become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the field before. At Noah's Ark Children's Hospice I was given a wide variety of tasks across a number of roles, and picked up new skills very quickly. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
+ While working at Aspire I provided cover for an absent colleague and was able to get quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
 
 ## Education
 
@@ -95,7 +95,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 *Research Scientist* – (July 2000 – January 2002)
 
- Carrying out defense research and evaluation using computer simulations
+- Carrying out defense research and evaluation using computer simulations
 - Writing technical reports
 
 **Quidnunc**
@@ -108,6 +108,6 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 - **Composing music** – I love writing classical music and using computers to synthesize live performances of my work
 - **Roleplay games** – I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
-- **Films** – from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax at the weekends and in the evenings
+- **Films** – from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax with my wife at the weekends and in the evenings
 - **Travel** – I enjoy experiencing other cultures, and have so far visited Canada, Sweden, Norway, Holland, South Africa and Uganda
 
