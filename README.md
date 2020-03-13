@@ -2,21 +2,21 @@
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as a teacher, before working in quality assurance where I worked with organisations across London to improve the quality of the courses they delivered. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
+I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
 
 ## Skills
 
 **Communication skills**
 
-I have excellent verbal and written communication skills. As a teacher I was able to break down problems into easy to digest chunks and communicate them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports on the centres and courses I worked with that were sometimes critical of their working practices. I was able to communicate these difficult messages face-to-face and in writing, while maintaining strong and constructive working relationships with my clients. As a Welfare Benefits Advisor at Aspire I worked with clients over the telephone. They were often very distressed, and I was able to help them explain their needs to us so we could assist them.
+I have excellent verbal and written communication skills. As a teacher I broke down problems into easy to digest chunks and communicated them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports about my clients that were sometimes critical of their working practices. I communicated these difficult messages face-to-face and in writing while maintaining strong and constructive working relationships with them. As a Welfare Benefits Advisor I worked with clients over the telephone. They were often very distressed, and I helped them to explain their needs so we could assist them.
 
 **Attention to detail**
 
-While working as an audio transcriber and captioner, I had to follow a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working my way through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity, and I was directly responsible for identifying sources of thousands of pounds of donations.
+While working as an audio transcriber and captioner, I followed a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
 
 **Quick and effective learner**
 
-As Aspire I provided cover for an absent colleague and quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML and how to compose and synthesize classical music using a digital audio workstation.
+At Aspire I provided cover for an absent colleague and quickly became an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception, and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
 
 ## Education
 
@@ -52,7 +52,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 *Welfare Benefits Administrator*
 
 - First point of contact for clients engaging with the service, helping to understand their needs and how the service could help them
-- Maintaining electronic and paper records, ensuring accuracy as these were often used as the basis for legal processes and procedures
+- Maintaining electronic and paper records, ensuring accuracy as these were often used as the basis for legal proceedings
 
 **Noah's Ark Children's Hospice** (May 2016 – January 2018)
 
@@ -67,25 +67,25 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 *Quality Reviewer* (October 2009 – October 2012)
 
 - Managing a caseload of 150+ centres across London
-- Developing relationships with clients in order to grow their businesses and improve the quality of their provision
+- Developing relationships with clients in order to grow their business with OCN and improve the quality of their provision
 - Writing detailed reports, ensuring accuracy and readability
 - Handling complex queries in person and over the telephone
-- Delivering training sessions to clients and colleagues
+- Delivering training to clients and colleagues
 
 *Senior Administration Officer* (April 2007 – September 2009)
 
-- Coordinating, reviewing and updating the organisation's the external moderation process
+- Coordinating, reviewing and updating the organisation's external moderation process
 - Delivering training to moderators and centres
 
 **Various temporary positions** (Dec 2006 – March 2007)
 
 **The National Star College** (September 2004 – November 2006)
 
-*IT Access Developer and Lecturer*
+*IT Access Developer and ICT Lecturer*
 
-- Evaluating learner assistive technology needs and training them how to use equipment to help them access IT
+- Evaluating learners' assistive technology needs and training them how to use equipment to help access IT
 - Training staff to support students
-- Teaching students ICT
+- Teaching students
 
 **DERA/QinetiQ**
 
