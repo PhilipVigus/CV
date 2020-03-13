@@ -2,7 +2,7 @@
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as a teacher, before working in quality assurance where I worked with organisations across London to improve the quality of the courses they delivered. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that.
+I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as a teacher, before working in quality assurance where I worked with organisations across London to improve the quality of the courses they delivered. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
 
 ## Skills
 
@@ -16,7 +16,7 @@ While working as an audio transcriber and captioner, I had to follow a detailed 
 
 **Quick and effective learner**
 
-As Aspire I provided cover for an absent colleague and quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
+As Aspire I provided cover for an absent colleague and quickly become an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML and how to compose and synthesize classical music using a digital audio workstation.
 
 ## Education
 
