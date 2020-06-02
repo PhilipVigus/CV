@@ -2,11 +2,16 @@
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer who loves to learn new things. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am now looking for a change of direction, and with a degree in Computer Science, I am returning to my roots. I love the creative side of software engineering and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
+I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn new things. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am looking for a change of direction, I am returning to my roots. I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
 
 ## Skills
 
-**Communication skills**
+### Communication
+
+I excel with verbal and written communication, and am able to break complex issues down into easy to digest chunks so they can be more easily discussed and understood
+
+* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships with them
+* 
 
 I have excellent verbal and written communication skills. As a teacher I broke down problems into easy to digest chunks and communicated them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports about my clients that were sometimes critical of their working practices. I communicated these difficult messages face-to-face and in writing while maintaining strong and constructive working relationships with them. As a Welfare Benefits Advisor I worked with clients over the telephone. They were often very distressed, and I helped them to explain their needs so we could assist them.
 
