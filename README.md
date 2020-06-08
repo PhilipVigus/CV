@@ -1,16 +1,16 @@
 # Phil Vigus
 
-| [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
+| [Projects](#Projects)| [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their educational provision. I am looking for a change of direction and am returning to my roots as a developer. 
+I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision. I am looking for a change of direction and am returning to my roots as a developer. 
 
-I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed  Makers Academy to prepare myself for a career as a software developer.
+I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed Makers Academy to prepare myself for a career as a software developer.
 
 ## Projects
 
 Title | Description | Technologies
 :---|:--------:|:------:|----:
-[WhatStack](https://github.com/FayeCarter/WhatStack) | A cross between WhatsApp and StackExchange. Our end of Makers Academy final group project | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML
+[WhatStack](https://github.com/FayeCarter/WhatStack) | A cross between WhatsApp and StackExchange. Our final group project at Makers Academy | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML
 [Trailers](https://github.com/PhilipVigus/trailers-express) | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML
 [Bowling Card](https://github.com/PhilipVigus/bowling-challenge) | A client-side bowling card with automated scoring | Javascript, Jasmine, CSS, HTML
 [Monstergram](https://github.com/PhilipVigus/instagram-challenge) | An Instagram clone | Ruby, Ruby on Rails, RSpec, Capybara, CSS, HTML
@@ -19,9 +19,11 @@ Title | Description | Technologies
 
 ### Technical
 * Languages - Javascript, Ruby, SQL, CSS, HTML
-* Frameworks - Express, React, Rails, Sinatra
+* Frameworks - React, Express, Rails, Sinatra
 * Databases - PostgreSQL, MongoDB
+* Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
 * Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
+* Operating Systems - Ubuntu, Mac, Windows
 * Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
 
 ### Non-technical
@@ -31,13 +33,14 @@ Title | Description | Technologies
 I excel with verbal and written communication, and am able to break complex concepts down into easy to digest chunks so they can be more easily discussed and understood.
 
 * At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a voice and say in the direction a project takes, and take pride in my ability to facilitate this
-* At OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships. I have sat in rooms full of hostile teachers, explaining why the course they spent the last year delivering was not up to standard and that their learners could not yet receive their certificates. I then had to work with the same staff to improve the course and ensure learners were able to progress 
+* At OCN London I often had to communicate difficult feedback to clients, while maintaining strong and constructive working relationships. I have sat in rooms full of hostile teachers, explaining why the course they spent the last year delivering was not up to standard and that their learners could not yet receive their certificates. I then had to work with the same staff to improve the course and ensure learners were able to progress 
 
-#### Attention to detail
+#### Determination and persistence
 
-* While working as an audio transcriber and captioner, I followed a detailed set of guidelines that allowed me to produce accurate work quickly and consistently
-* At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate
-* At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
+I don't know when or how to give up.
+
+* During the final project at Makers Academy the group had huge difficulty working out how to test the web socket based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project
+* I spent 4 years unable to work. It was been a long, difficult path with plenty of obstacles, but I never once thought that I would not be able to make it back to full time employment.
 
 #### An excellent understanding of how learning works
 
@@ -47,8 +50,15 @@ This helps me to learn quickly, independently and effectively, and allows to fac
 * At Makers Academy 
   * I taught myself React alongside the regular curriculum areas
   * I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to facilitate their learning without spoonfeeding them solutions
-  * I mentored two members of a later cohort, helping them get the most out of the course
+  * I mentored two members of a later cohort, helping them get the most out of the course by offering technical and pastoral advice and guidance based on my experience
 * While recovering from ill-health I taught myself to compose and synthesize classical music
+
+#### Leadership
+
+I have strong leadership skills.
+
+* At Makers Academy I often took leadership roles during critical times in projects. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like. Every time I led I received unanimous positive feedback on my ability to keep groups focused and on task, ensuring that all team members felt they had a voice, and helping the team reach consensus when there were disagreements
+* At OCN London I regularly led teams of moderators when visiting my clients. I was responsible for coordinating their efforts and ensuring that work got done to extremely tight schedules in challenging and occasionally unfriendly environments
 
 ## Education
 
