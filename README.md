@@ -31,13 +31,13 @@ I excel with verbal and written communication, and am able to break complex issu
 * At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate
 * At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
 
-### A excellent understanding of how learning works
+### An excellent understanding of how learning works
 
 This helps me to learn quickly and effectively, and also to facilitate the learning of those around me.
 
 * At Makers Academy I taught myself React alongside the regular curriculum areas
 * Before starting Makers Academy I taught myself to build and deploy a full-stack project using Express, MongoDB and the PUG templating language. The result of this is my Trailers project
-* At Makers Academy I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to faciliate their learning without spoonfeeding them
+* At Makers Academy I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to facilitate their learning without spoonfeeding them
 * While recovering from ill-health I taught myself to compose and synthesize classical music
 
 ## Education
@@ -58,15 +58,15 @@ PGCE  – Further Education (ICT)
 
 Bachelor of Science (Hons.) – Computer Science (2.1)
 
-#### Herford Regional College (1993 – 1995)
+#### Hertford Regional College (1993 – 1995)
 
 A-levels – Maths(A), Chemistry(A), Physics(A)
 
 ## Experience
 
-**Freelance Audio Transcriber and Captioner** (May – October 2019) 
+**Exploring career options, researching routes into development and independent learning** (November 2019 - February 2020)
 
-- Accurately transcribing and captioning often long and difficult to understand audio and video files
+**Freelance Audio Transcriber and Captioner** (May – October 2019) 
 
 **Home-maker** (August 2018 – April 2019)
 
@@ -74,8 +74,8 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 *Welfare Benefits Administrator*
 
-- First point of contact for clients engaging with the service, helping to understand their needs and how the service could help them
-- Maintaining electronic and paper records, ensuring accuracy as these were often used as the basis for legal proceedings
+- First point of contact for clients engaging with the service
+- Maintaining electronic and paper records often used as the basis for legal proceedings
 
 **Noah's Ark Children's Hospice** (May 2016 – January 2018)
 
@@ -89,10 +89,8 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 *Quality Reviewer* (October 2009 – October 2012)
 
-- Managing a caseload of 150+ centres across London
-- Developing relationships with clients in order to grow their business with OCN and improve the quality of their provision
-- Writing detailed reports, ensuring accuracy and readability
-- Handling complex queries in person and over the telephone
+- Managing a caseload of 150+ centres across London, developing relationships with clients in order to grow their business and improve the quality of their provision
+- Writing detailed reports and handling complex queries in person and over the telephone
 - Delivering training to clients and colleagues
 
 *Senior Administration Officer* (April 2007 – September 2009)
@@ -107,19 +105,17 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 *IT Access Developer and ICT Lecturer*
 
 - Evaluating learners' assistive technology needs and training them how to use equipment to help access IT
-- Training staff to support students
-- Teaching students
+- Training staff to support students, and teaching students
 
 **DERA/QinetiQ**
 
 *New Business Support Administrator* – (February 2002 – August 2003)
 
-- Producing customer bids and reports, liasing with external organisations and acting as the main point of contact for customers
+- Producing customer bids and reports, liaising with external organisations and acting as the main point of contact for customers
 
 *Research Scientist* – (July 2000 – January 2002)
 
 - Carrying out defense research and evaluation using computer simulations
-- Writing technical reports
 
 **Quidnunc**
 
@@ -131,6 +127,6 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 - **Composing music** – I love writing classical music and using computers to synthesize live performances of my work
 - **Roleplay games** – I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
-- **Films** – from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax with my wife at the weekends and in the evenings
+- **Films** – from Christopher Nolan through Amelie all the way to Up! and Monsters Inc., movies are one of the main ways I relax with my wife
 - **Travel** – I enjoy experiencing other cultures, and have so far visited Canada, Sweden, Norway, Holland, South Africa and Uganda
 
