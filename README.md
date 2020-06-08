@@ -4,7 +4,7 @@
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am looking for a change of direction and am returning to my roots. 
 
-I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software developer.
+I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed  Makers Academy to prepare myself for a career as a software developer.
 
 ## Projects
 
@@ -19,10 +19,9 @@ Monstergram | An Instagram clone | Ruby, Ruby on Rails, RSpec | 1 weekend
 
 ### Communication
 
-I excel with verbal and written communication, and am able to break complex issues down into easy to digest chunks so they can be more easily discussed and understood.
+I excel with verbal and written communication, and am able to break complex concepts down into easy to digest chunks so they can be more easily discussed and understood.
 
-* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships
-* As a Welfare Benefits Advisor I worked with distressed clients over the telephone, helping them to explain their needs so we could support them
+* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships. I have sat in a rooms full of hostile teachers, explaining why the course they spent the last year delivering was not up to standard and that their learners could not yet receive their certificates. I then had to work with the same staff to improve the course and ensure learners were able to get their awards 
 
 ### Attention to detail
 
