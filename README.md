@@ -2,41 +2,52 @@
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am looking for a change of direction and am returning to my roots. 
+I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their educational provision. I am looking for a change of direction and am returning to my roots as a developer. 
 
 I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed  Makers Academy to prepare myself for a career as a software developer.
 
 ## Projects
 
-Title | Description | Technologies | Timeframe
+Title | Description | Technologies
 :---|:--------:|:------:|----:
-WhatStack | A cross between WhatsApp and StackExchange. Our end of Makers Academy final group project | Javascript, MongoDB, Express, React, Node, websockets, React testing library, Heroku | 10 days
-Trailers | A website to help my wife and I shortlist films to watch. The project that started it all, built before completing Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku | On and off over 1 month
-Bowling Card | A client-side automated bowling card | Javascript, Jasmine | On and off over 1 week
-Monstergram | An Instagram clone | Ruby, Ruby on Rails, RSpec | 1 weekend
+[WhatStack](https://github.com/FayeCarter/WhatStack) | A cross between WhatsApp and StackExchange. Our end of Makers Academy final group project | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML
+[Trailers](https://github.com/PhilipVigus/trailers-express) | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML
+[Bowling Card](https://github.com/PhilipVigus/bowling-challenge) | A client-side bowling card with automated scoring | Javascript, Jasmine, CSS, HTML
+[Monstergram](https://github.com/PhilipVigus/instagram-challenge) | An Instagram clone | Ruby, Ruby on Rails, RSpec, Capybara, CSS, HTML
 
 ## Skills
 
-### Communication
+### Technical
+* Languages - Javascript, Ruby, SQL, CSS, HTML
+* Frameworks - Express, React, Rails, Sinatra
+* Databases - PostgreSQL, MongoDB
+* Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
+* Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
+
+### Non-technical
+
+#### Communication
 
 I excel with verbal and written communication, and am able to break complex concepts down into easy to digest chunks so they can be more easily discussed and understood.
 
-* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships. I have sat in a rooms full of hostile teachers, explaining why the course they spent the last year delivering was not up to standard and that their learners could not yet receive their certificates. I then had to work with the same staff to improve the course and ensure learners were able to get their awards 
+* At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a voice and say in the direction a project takes, and take pride in my ability to facilitate this
+* At OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships. I have sat in rooms full of hostile teachers, explaining why the course they spent the last year delivering was not up to standard and that their learners could not yet receive their certificates. I then had to work with the same staff to improve the course and ensure learners were able to progress 
 
-### Attention to detail
+#### Attention to detail
 
 * While working as an audio transcriber and captioner, I followed a detailed set of guidelines that allowed me to produce accurate work quickly and consistently
-* At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified
 * At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate
 * At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
 
-### An excellent understanding of how learning works
+#### An excellent understanding of how learning works
 
-This helps me to learn quickly and effectively, and also to facilitate the learning of those around me.
+This helps me to learn quickly, independently and effectively, and allows to facilitate the learning of those around me.
 
-* At Makers Academy I taught myself React alongside the regular curriculum areas
 * Before starting Makers Academy I taught myself to build and deploy a full-stack project using Express, MongoDB and the PUG templating language. The result of this is my Trailers project
-* At Makers Academy I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to facilitate their learning without spoonfeeding them
+* At Makers Academy 
+  * I taught myself React alongside the regular curriculum areas
+  * I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to facilitate their learning without spoonfeeding them solutions
+  * I mentored two members of a later cohort, helping them get the most out of the course
 * While recovering from ill-health I taught myself to compose and synthesize classical music
 
 ## Education
@@ -45,7 +56,7 @@ This helps me to learn quickly and effectively, and also to facilitate the learn
 
 - OOP, TDD/BDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript, React, Express, Node
+- Ruby, Sinatra, Rails, JavaScript, React, Express, Node
 - RSpec, Jasmine, Jest, React Testing Library
 - PostgreSQL, SQL, MongoDB
 
@@ -63,11 +74,11 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 ## Experience
 
-**Exploring career options, researching routes into development and independent learning** (November 2019 - February 2020)
+**Exploring career options, researching routes into development and independent learning** (October 2019 - February 2020)
 
 **Freelance Audio Transcriber and Captioner** (May – October 2019) 
 
-**Home-maker** (August 2018 – April 2019)
+**Homemaker** (August 2018 – April 2019)
 
 **Aspire** (February 2018 – July 2018 fixed term contract)
 
@@ -80,7 +91,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 *Voluntary Roles*
 
-- Proofreading documents, researching potential donors, updating the corporate database, editing the charity's website, creating and scheduling social media posts, producing graphics for online and paper use
+- Researching potential donors, updating the corporate database, editing the charity's website, creating and scheduling social media posts, producing graphics for online and paper use
 
 **Unable to work due to ill health** (November 2012 – April 2016)
 
