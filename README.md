@@ -1,36 +1,49 @@
-## Phil Vigus
+# Phil Vigus
 
 | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn new things. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am looking for a change of direction, I am returning to my roots. I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software engineer.
+I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I have spent much of my career working in education, initially as an ICT teacher, before moving into quality assurance where I worked with organisations across London to improve their courses. I am looking for a change of direction and am returning to my roots. 
+
+I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed the Makers Academy bootcamp to prepare myself for a career as a software developer.
+
+## Projects
+
+
 
 ## Skills
 
 ### Communication
 
-I excel with verbal and written communication, and am able to break complex issues down into easy to digest chunks so they can be more easily discussed and understood
+I excel with verbal and written communication, and am able to break complex issues down into easy to digest chunks so they can be more easily discussed and understood.
 
-* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships with them
-* 
+* As a Quality Reviewer at OCN London I often had to communicate difficult feedback to clients, both face-to-face and in writing, while maintaining strong and constructive working relationships
+* As a Welfare Benefits Advisor I worked with distressed clients over the telephone, helping them to explain their needs so we could support them
 
-I have excellent verbal and written communication skills. As a teacher I broke down problems into easy to digest chunks and communicated them effectively to learners to help their understanding. As a Quality Reviewer for OCN London I wrote detailed reports about my clients that were sometimes critical of their working practices. I communicated these difficult messages face-to-face and in writing while maintaining strong and constructive working relationships with them. As a Welfare Benefits Advisor I worked with clients over the telephone. They were often very distressed, and I helped them to explain their needs so we could assist them.
+### Attention to detail
 
-**Attention to detail**
+* While working as an audio transcriber and captioner, I followed a detailed set of guidelines that allowed me to produce accurate work quickly and consistently
+* At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified
+* At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate
+* At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
 
-While working as an audio transcriber and captioner, I followed a detailed set of guidelines that allowed me to produce accurate work quickly and consistently. At OCN London I proofread all reports before they were sent out to centres, ensuring that mistakes and inconsistencies were identified. At Aspire, the case notes I kept for clients were often used as evidence in legal proceedings, and had to be extremely accurate. At Noah's Ark Children's Hospice I compiled lists of potential leads for the fundraising team to follow up. This required working through hundreds of websites, establishing which organisations and individuals might be willing to donate to the charity. I was directly responsible for identifying sources of thousands of pounds of donations.
+### A excellent understanding of how learning works
 
-**Quick and effective learner**
+This helps me to learn quickly and effectively, and also to facilitate the learning of those around me.
 
-At Aspire I provided cover for an absent colleague and quickly became an effective part of the team. As a result I won employee of the month in my first month of employment, despite having never worked in the sector before. At Noah's Ark Children's Hospice I had to be extremely adaptable, as I was given a wide variety of tasks across a number of roles including reception, and the fundraising, marketing and care teams. I have also taught myself a number of skills in my own time, including programming with Javascript, CSS and HTML, and how to compose and synthesize classical music using a digital audio workstation.
+* At Makers Academy I taught myself React alongside the regular curriculum areas
+* Before starting Makers Academy I taught myself to build and deploy a full-stack project using Express, MongoDB and the PUG templating language. The result of this is my Trailers project
+* At Makers Academy I was regularly given extremely positive feedback by team members and pair partners regarding how well I was able to faciliate their learning without spoonfeeding them
+* While recovering from ill-health I taught myself to compose and synthesize classical music
 
 ## Education
 
 #### Makers Academy (March – June 2020)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD/BDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Express, Node
+- RSpec, Jasmine, Jest, React Testing Library
+- PostgreSQL, SQL, MongoDB
 
 #### University of Exeter (2003 – 2004)
 
