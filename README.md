@@ -144,7 +144,7 @@ _Software Developer_ (June 1999 – January 2000)
 
 - Implementing e-commerce websites
 
-## Hobbies
+## Free time
 
 - **Composing music** – I love writing classical music and using computers to synthesize live performances of my work
 - **Roleplay games** – I have played in and run collaborative storytelling games for a number of years, and enjoy creating and telling stories with others
