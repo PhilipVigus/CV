@@ -9,7 +9,7 @@ I love the creative side of development and being able to see a website or app g
 ## Projects
 
 Title | Description | Technologies
-:---|:--------:|:------:|----:
+:---|:--------:|----:
 [WhatStack](https://github.com/FayeCarter/WhatStack) | A cross between WhatsApp and StackExchange. Our final group project at Makers Academy | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML
 [Trailers](https://github.com/PhilipVigus/trailers-express) | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML
 [Bowling Card](https://github.com/PhilipVigus/bowling-challenge) | A client-side bowling card with automated scoring | Javascript, Jasmine, CSS, HTML
