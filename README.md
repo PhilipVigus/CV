@@ -8,12 +8,12 @@ I am looking for a change of direction and am returning to my roots in technolog
 
 ## Projects
 
-| Title                                                             |                                                           Description                                                           |                                                                                     Technologies |
-| :---------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------: |
-| [WhatStack](https://github.com/FayeCarter/WhatStack)              |                      A cross between WhatsApp and StackExchange. Our final group project at Makers Academy                      | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML |
-| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy |                                       Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML |
-| [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  |                                        A client-side bowling card with automated scoring                                        |                                                                   Javascript, Jasmine, CSS, HTML |
-| [Monstergram](https://github.com/PhilipVigus/instagram-challenge) |                                                       An Instagram clone                                                        |                                                  Ruby, Ruby on Rails, RSpec, Capybara, CSS, HTML |
+| Title                                                             | Description                                                                                                                     | Technologies                                                                                     |
+| :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------- |
+| [WhatStack](https://github.com/FayeCarter/WhatStack)              | A cross between WhatsApp and StackExchange. Our final group project at Makers Academy                                           | Javascript, MongoDB, Express, React, Node, web sockets, React testing library, Heroku, CSS, HTML |
+| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML                                       |
+| [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring                                                                               | Javascript, Jasmine, CSS, HTML                                                                   |
+| [Monstergram](https://github.com/PhilipVigus/instagram-challenge) | An Instagram clone                                                                                                              | Ruby, Ruby on Rails, RSpec, Capybara, CSS, HTML                                                  |
 
 ## Skills
 
