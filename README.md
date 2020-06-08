@@ -8,7 +8,12 @@ I love the creative side of development and being able to see a website or app g
 
 ## Projects
 
-
+Title | Description | Technologies | Timeframe
+:---|:--------:|:------:|----:
+WhatStack | A cross between WhatsApp and StackExchange. Our end of Makers Academy final group project | Javascript, MongoDB, Express, React, Node, websockets, React testing library, Heroku | 10 days
+Trailers | A website to help my wife and I shortlist films to watch. The project that started it all, built before completing Makers Academy | Javascript, MongoDB, Express, Node, PUG, Heroku | On and off over 1 month
+Bowling Card | A client-side automated bowling card | Javascript, Jasmine | On and off over 1 week
+Monstergram | An Instagram clone | Ruby, Ruby on Rails, RSpec | 1 weekend
 
 ## Skills
 
