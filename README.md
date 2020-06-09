@@ -2,15 +2,9 @@
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-<<<<<<< HEAD
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision. 
-
-I am looking for a change of direction and am returning to my roots as a developer. I love the creative side of development and being able to see a website or app grow in front of me. I completed Makers Academy to prepare myself for a career as a software developer.
-=======
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
 I am looking for a change of direction and am returning to my roots in technology. I love the creative side of development. Being able to see a website or app grow in front of me excites me, and I have recently completed Makers Academy to prepare myself for a career in software development.
->>>>>>> 571977a380cc54f55020f29b159157bff770f6cb
 
 ## Projects
 
@@ -24,23 +18,12 @@ I am looking for a change of direction and am returning to my roots in technolog
 ## Skills
 
 ### Technical
-<<<<<<< HEAD
 * Languages - Javascript, Ruby, SQL, CSS, HTML
 * Frameworks - React, Express, Rails, Sinatra
 * Databases - PostgreSQL, MongoDB
 * Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
 * Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
 * Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
-=======
-
-- Languages - Javascript, Ruby, SQL, CSS, HTML
-- Frameworks - React, Express, Rails, Sinatra
-- Databases - PostgreSQL, MongoDB
-- Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
-- Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
-- Operating Systems - Ubuntu, Mac, Windows
-- Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
->>>>>>> 571977a380cc54f55020f29b159157bff770f6cb
 
 ### Non-technical
 
