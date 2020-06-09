@@ -1,10 +1,10 @@
 # Phil Vigus
 
-| [Projects](#Projects)| [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision. I am looking for a change of direction and am returning to my roots as a developer. 
+I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision. 
 
-I love the creative side of development and being able to see a website or app grow in front of me. I want a job that allows me to do that, and completed Makers Academy to prepare myself for a career as a software developer.
+I am looking for a change of direction and am returning to my roots as a developer. I love the creative side of development and being able to see a website or app grow in front of me. I completed Makers Academy to prepare myself for a career as a software developer.
 
 ## Projects
 
@@ -23,7 +23,6 @@ Title | Description | Technologies
 * Databases - PostgreSQL, MongoDB
 * Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
 * Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
-* Operating Systems - Ubuntu, Mac, Windows
 * Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
 
 ### Non-technical
