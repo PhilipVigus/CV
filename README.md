@@ -1,6 +1,6 @@
 # Phil Vigus
 
-| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
