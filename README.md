@@ -39,17 +39,10 @@ I excel with verbal and written communication, and am able to break complex conc
 
 #### Problem solving
 
-I have a thorough, methodical approach to solving problems, and excellent research skills
+I have a thorough, methodical approach to solving problems.
 
-- At Makers Academy I was known for drill down into an issue or bug rather than making a lot of changes without understanding what was and wasn't working. Isolating the specific line of code made it far quicker to identify the cause and find a solution
-- When faced with something I don't understand or a problem I need to solve, I utilise thorough research skills. I spend time establishing whether someone else has already solved the same or a similar problem. If this is the case then I make sure I understand how they did so, rather than blindly copying their approach. I also emphasize the importance of official documentation, which often contains the answers I am looking for. If that fails then I will spend time reading around the subject, making sure my understanding of the issue and its context is strong. I break the problem down into the smallest possible, which my itself can make a seemingly unsurmountable issue much simpler, and solve those micro-problems one at a time until there are none left.
-
-#### Determination and persistence
-
-I don't know when or how to give up.
-
-- During the final project at Makers Academy the group had huge difficulty working out how to test the WebSocket-based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project
-- I spent 4 years unable to work due to ill health. Recovery was a long, difficult path with plenty of obstacles, but I never once thought that I would not be able to make it back to full time employment
+- At Makers Academy I was known for drilling down into an issue or bug rather than making a lot of changes without understanding what was and wasn't working. Isolating the specific line of code made it far quicker to identify the cause and find a solution
+- When faced with something I don't understand or a problem I need to solve, I utilise thorough research skills. I spend time establishing whether someone else has already solved the same or a similar problem. If this is the case then I make sure I understand how they did so, rather than blindly copying their approach. I also emphasize the importance of official documentation, which often contains the answers I am looking for. If that fails then I will spend time reading around the subject, making sure my understanding of the issue and its context is strong. I break the problem down into the smallest possible chunks, which by itself can make a seemingly unsurmountable issue much simpler, and solve those micro-problems one at a time until there are none left
 
 #### An excellent understanding of how learning works
 
@@ -58,9 +51,15 @@ This helps me to learn quickly, independently and effectively, and allows me to 
 - Before starting at Makers Academy I taught myself to build and deploy a full-stack project using Express, MongoDB and the PUG templating language. The result of this is my [Trailers](https://github.com/PhilipVigus/trailers-express) project
 - At Makers Academy
   - I taught myself React alongside the regular curriculum areas
-  - I was regularly given extremely positive feedback by team members and pair partners on how well I was able to facilitate their learning without spoonfeeding them solutions
+  - I was regularly given extremely positive feedback by team members and pair partners on how well I facilitated their learning without spoonfeeding them solutions
   - I mentored two members of a later cohort, helping them get the most out of the course by offering technical and pastoral advice and guidance based on my experience
 - While recovering from ill-health I taught myself to compose and synthesize classical music
+
+#### High emotional intelligence
+
+I am extremely self-aware, and am able to empathize effectively with others. This helps in a wide variety of ways. At Makers Academy I was able to resolve a number of difficult situations while working in groups
+- Towards the end of one project it became clear that there was a split in the group. One side was focused on getting as much done as possible, with one person adding a lot of code at the last minute that others did not understand. The other side was more interested in ensuring that the work represented the entire group. I identified this problem early, and helped the group reach a compromise that everyone was happy with
+- It helps me give constructive, critical feedback when pair programming in a way that is non-threatening and helpful. I also quickly identify when I make mistakes or do things that inadvertently upset other people, and am very receptive to feedback on how to improve
 
 #### Leadership
 
@@ -68,6 +67,13 @@ I have strong leadership skills.
 
 - At Makers Academy I often took leadership roles during critical times in projects. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like. Every time I led I received unanimous positive feedback on my ability to keep groups focused and on task, ensure that all team members felt they had a voice, and help the team reach consensus when there were disagreements
 - At OCN London I regularly led teams of moderators when visiting my clients. I was responsible for coordinating their efforts and ensuring that work was completed to extremely tight schedules in challenging and occasionally unfriendly environments
+
+#### Determination and persistence
+
+I don't know when or how to give up.
+
+- During the final project at Makers Academy the group had huge difficulty working out how to test the WebSocket-based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project
+- I spent 4 years unable to work due to ill health. Recovery was a long, difficult path with plenty of obstacles, but I never once thought that I would not be able to make it back to full time employment
 
 ## Education
 
@@ -89,7 +95,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 ## Experience
 
-**Exploring career options, researching routes into development,independent learning** (October 2019 - February 2020)
+**Exploring career options, researching routes into development, independent learning** (October 2019 - February 2020)
 
 **Freelance Audio Transcriber and Captioner** (May – October 2019)
 
