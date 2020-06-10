@@ -4,7 +4,7 @@
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
-I am looking for a change of direction and am returning to my roots in technology. I love the creative side of development. Seeing a website or app grow excites me, and I have recently completed Makers Academy to prepare myself for a career in software development.
+I am looking for a change of direction and am returning to my roots in technology. I recently completed the bootcamp at Makers Academy to prepare myself for a career in software development. I love the blend of creative and analytical skills required, and seeing a website grow before my eyes really excites me.
 
 ## Projects
 
@@ -18,12 +18,15 @@ I am looking for a change of direction and am returning to my roots in technolog
 ## Skills
 
 ### Technical
-* Languages - Javascript, Ruby, SQL, CSS, HTML
-* Frameworks - React, Express, Rails, Sinatra
-* Databases - PostgreSQL, MongoDB
-* Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
-* Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
-* Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
+
+| Area          | Skills                                                |
+| :------------ | :---------------------------------------------------- |
+| Languages     | Javascript, Ruby, SQL, CSS, HTML                      |
+| Frameworks    | React, Express, Rails, Sinatra                        |
+| Databases     | PostgreSQL, MongoDB                                   |
+| Workflow      | Git, Github, Travis CI/CD, Heroku, VSCode             |
+| Testing       | Jest, Jasmine, RSpec, Capybara, React Testing Library |
+| Methodologies | OOP, MVC, TDD/BDD, Agile/Scrum/XP                     |
 
 ### Non-technical
 
@@ -33,6 +36,13 @@ I excel with verbal and written communication, and am able to break complex conc
 
 - At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a say in the direction a project takes, and take pride in my ability to facilitate this
 - At OCN London I often had to communicate difficult feedback to clients while maintaining strong and constructive working relationships. I sat in rooms full of hostile teachers, explaining why the courses they had spent the last year delivering were so poor that their learners could not yet receive their certificates. I then had to work with the same staff to improve their provision and ensure learners were able to progress
+
+#### Problem solving
+
+I have a thorough, methodical approach to solving problems, and excellent research skills
+
+- At Makers Academy I was known for drill down into an issue or bug rather than making a lot of changes without understanding what was and wasn't working. Isolating the specific line of code made it far quicker to identify the cause and find a solution
+- When faced with something I don't understand or a problem I need to solve, I utilise thorough research skills. I spend time establishing whether someone else has already solved the same or a similar problem. If this is the case then I make sure I understand how they did so, rather than blindly copying their approach. I also emphasize the importance of official documentation, which often contains the answers I am looking for. If that fails then I will spend time reading around the subject, making sure my understanding of the issue and its context is strong. I break the problem down into the smallest possible, which my itself can make a seemingly unsurmountable issue much simpler, and solve those micro-problems one at a time until there are none left.
 
 #### Determination and persistence
 
