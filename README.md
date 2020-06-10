@@ -1,6 +1,6 @@
 # Phil Vigus
 
-| [Projects](#Projects)| [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
@@ -18,14 +18,12 @@ I am looking for a change of direction and am returning to my roots in technolog
 ## Skills
 
 ### Technical
-
-- Languages - Javascript, Ruby, SQL, CSS, HTML
-- Frameworks - React, Express, Rails, Sinatra
-- Databases - PostgreSQL, MongoDB
-- Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
-- Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
-- Operating Systems - Ubuntu, Mac, Windows
-- Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
+* Languages - Javascript, Ruby, SQL, CSS, HTML
+* Frameworks - React, Express, Rails, Sinatra
+* Databases - PostgreSQL, MongoDB
+* Workflow - Git, Github, Travis CI/CD, Heroku, VSCode
+* Testing - Jest, Jasmine, RSpec, Capybara, React Testing Library
+* Methodologies - OOP, MVC, TDD/BDD, Agile/Scrum/XP
 
 ### Non-technical
 
