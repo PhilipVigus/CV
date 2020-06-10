@@ -4,7 +4,7 @@
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
-I am looking for a change of direction and am returning to my roots in technology. I love the creative side of development. Being able to see a website or app grow in front of me excites me, and I have recently completed Makers Academy to prepare myself for a career in software development.
+I am looking for a change of direction and am returning to my roots in technology. I love the creative side of development. Seeing a website or app grow excites me, and I have recently completed Makers Academy to prepare myself for a career in software development.
 
 ## Projects
 
@@ -59,17 +59,13 @@ This helps me to learn quickly, independently and effectively, and allows me to 
 I have strong leadership skills.
 
 - At Makers Academy I often took leadership roles during critical times in projects. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like. Every time I led I received unanimous positive feedback on my ability to keep groups focused and on task, ensure that all team members felt they had a voice, and help the team reach consensus when there were disagreements
-- At OCN London I regularly led teams of moderators when visiting my clients. I was responsible for coordinating their efforts and ensuring that work got done to extremely tight schedules in challenging and occasionally unfriendly environments
+- At OCN London I regularly led teams of moderators when visiting my clients. I was responsible for coordinating their efforts and ensuring that work was completed to extremely tight schedules in challenging and occasionally unfriendly environments
 
 ## Education
 
 #### Makers Academy (March – June 2020)
 
-- OOP, TDD/BDD, MVC
-- Agile/XP
-- Ruby, Sinatra, Rails, JavaScript, React, Express, Node
-- RSpec, Jasmine, Jest, React Testing Library
-- PostgreSQL, SQL, MongoDB
+Makers Academy is the top software development bootcamp in London. Alongside the technical skills I've listed above, it focuses on processes such as TDD/BDD, Agile practices and learning how to learn.
 
 #### University of Exeter (2003 – 2004)
 
