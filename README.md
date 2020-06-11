@@ -4,7 +4,7 @@
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
-I am looking for a change of direction and am returning to my roots in technology. I recently completed the bootcamp at Makers Academy to prepare myself for a career in software development. I love the blend of creative and analytical skills required, and seeing a website grow before my eyes really excites me.
+I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Makers Academy to prepare myself for a career in software development. I love the blend of creative and analytical skills required, and seeing a website grow before my eyes really excites me.
 
 ## Projects
 
