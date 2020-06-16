@@ -1,6 +1,6 @@
 # Phil Vigus
 
-| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus) | [Music](https://soundcloud.com/philvigus) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus)
 
 I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
@@ -10,10 +10,10 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 | Title                                                             | Description                                                                                                                     | Technologies                                                                                            |
 | :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
-| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | Javascript, MongoDB, Express, React, Node, WebSockets, Auth0, React testing library, Heroku, CSS, HTML |
+| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | Javascript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku, CSS, HTML |
 | [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy. | Javascript, MongoDB, Express, Node, PUG, Heroku, CSS, HTML                                              |
 | [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring.                                                                               | Javascript, Jasmine, CSS, HTML                                                                          |
-| [Monstergram](https://github.com/PhilipVigus/instagram-challenge) | An Instagram clone.                                                                                                              | Ruby, Ruby on Rails, RSpec, Capybara, CSS, HTML                                                         |
+| [Bank](https://github.com/PhilipVigus/bank-technical-challenge) | A bank account simulator with a command-line interface.                                                                                                              | Javascript, Jasmine                                                         |
 
 ## Skills
 
