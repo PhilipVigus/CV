@@ -22,7 +22,7 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 | Area          | Skills                                                |
 | :------------ | :---------------------------------------------------- |
-| Languages     | Javascript, Ruby, SQL, CSS, HTML                      |
+| Languages     | Javascript, Typescript, Ruby, SQL, CSS, HTML          |
 | Frameworks    | React, Express, Rails, Sinatra                        |
 | Databases     | PostgreSQL, MongoDB                                   |
 | Workflow      | Git, Github, Travis CI/CD, Heroku, VSCode             |
@@ -97,11 +97,17 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 ## Experience
 
-**Exploring career options, researching routes into development, independent learning** (October 2019 – February 2020)
+**Independent learning** (October 2019 – February 2020)
+
+- Coding, general computer science principles
+- Deployment of a full stack JavaScript-based website using Express, and MongoDB
 
 **Freelance Audio Transcriber and Captioner** (May – October 2019)
 
-**Homemaker** (August 2018 – April 2019)
+**Exploring career options** (August 2018 – April 2019)
+
+- Investigating possile routes into different careers
+- Learning to code again
 
 **Aspire** (February 2018 – July 2018 fixed term contract)
 
@@ -140,13 +146,13 @@ _IT Access Developer and ICT Lecturer_
 
 **DERA/QinetiQ**
 
-_New Business Support Administrator_ (February 2002 – August 2003)
+_Business Development_ (February 2002 – August 2003)
 
 - Liaising with external organisations and acting as the main point of contact for customers
 
 _Research Scientist_ (July 2000 – January 2002)
 
-- Carrying out defense research and evaluation using computer simulations
+- Designing, implementing and using computer simulations
 
 **Quidnunc**
 
