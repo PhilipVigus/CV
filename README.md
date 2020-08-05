@@ -107,7 +107,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 **Exploring career options** (August 2018 – April 2019)
 
 - Investigating possile routes into different careers
-- Learning to code again
+- Starting to learn JavaScript
 
 **Aspire** (February 2018 – July 2018 fixed term contract)
 
@@ -122,6 +122,8 @@ _Voluntary Roles_
 - Researching potential donors, updating the corporate database, editing the charity's website, creating and scheduling social media posts, producing graphics for online and paper use
 
 **Unable to work due to ill health** (November 2012 – April 2016)
+
+- Writing a card game using C# with Lua as a scripting language
 
 **OCN London**
 
