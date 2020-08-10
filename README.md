@@ -106,7 +106,7 @@ A-levels – Maths(A), Chemistry(A), Physics(A)
 
 **Exploring career options** (August 2018 – April 2019)
 
-- Investigating possile routes into different careers
+- Investigating possible routes into different careers
 - Starting to learn JavaScript
 
 **Aspire** (February 2018 – July 2018 fixed term contract)
