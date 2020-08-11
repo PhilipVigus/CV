@@ -2,7 +2,7 @@
 
 | [Portfolio](https://www.philvigus.com/) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus) |
 
-I am a driven, dedicated full-stack developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
+I am a driven, dedicated developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
 
 I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Makers Academy to prepare myself for a career in software development. I love the blend of creative and analytical skills required, and seeing a website grow before my eyes really excites me.
 
@@ -10,7 +10,7 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 | Title                                                             | Description                                                                                                                     | Technologies                                                                                            |
 | :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
-| [Chitter](https://github.com/PhilipVigus/chitter) | A Twitter clone I used to learn Typescript | Typescript, React, Express, PostgresSQL, Circle CI, Netlify, Heroku |
+| [Chitter](https://github.com/PhilipVigus/chitter) | A Twitter clone I used to learn Typescript. | Typescript, React, Express, PostgresSQL, Circle CI, Netlify, Heroku |
 | [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | Javascript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku |
 | [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy. | Javascript, MongoDB, Express, Node, PUG, Heroku                                              |
 | [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring.                                                                               | Javascript, Jasmine, CSS, HTML                                                                          |
