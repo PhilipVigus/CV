@@ -61,7 +61,7 @@ I excel with verbal and written communication, and am able to break complex conc
 
 I am extremely self-aware and am able to empathize effectively with others.
 - At the end of one project at Maker's Academy, there was a split in the group. One side was focused on getting as much done as possible, with one person adding a lot of code that others did not understand. The other side was more interested in ensuring that the work represented the entire group. I identified this problem quickly and helped the group reach a compromise that everyone was happy with.
-- I give constructive, critical feedback when pair programming in a non-threatening and helpful way.
+- I give constructive, critical feedback when pair programming or during code reviews in a non-threatening and helpful way.
 - I quickly identify when I make mistakes and am very receptive to feedback on how to improve.
 
 #### Leadership
