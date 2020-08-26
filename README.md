@@ -27,7 +27,7 @@ I have now changed direction, returning to my roots in technology. I recently co
 | Databases     | PostgreSQL, MongoDB                                   |
 | Workflow      | Git, GitHub, Travis CI, Circle CI, Netlify, Heroku, VSCode             |
 | Testing       | Jest, Jasmine, RSpec, Capybara, React testing library |
-| Methodologies | OOP, MVC, TDD/BDD, Agile/Scrum/XP                     |
+| Methodologies | OOP, MVC, TDD/BDD, Agile/Scrum/XP, Clean Code                     |
 
 ### Non-technical
 
@@ -42,7 +42,7 @@ I have a thorough, methodical approach to solving problems.
 
 #### An excellent understanding of how learning works
 
-This helps me to learn quickly, independently and effectively, and allows me to facilitate the learning of those around me.
+I have a superb understanding of how learning works from my training as a teacher. I learn quickly and efficiently, and excel at facilitating the learning of others.
 
 - Before starting at Maker's Academy I created a [Trailers](https://github.com/PhilipVigus/trailers-express) website, teaching myself to build and deploy a full stack project using Express, MongoDB and the PUG templating language.
 - At Maker's Academy
@@ -70,6 +70,10 @@ I have strong leadership skills.
 
 - At Maker's Academy I often took leadership roles during critical times and received unanimous positive feedback on my ability to keep groups on task, ensure that all team members had a voice, and help the team reach consensus when there were disagreements. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like.
 - At OCN London I regularly led teams of moderators when visiting clients. I was responsible for coordinating their efforts and ensuring that work was completed to extremely tight schedules in challenging and sometimes unfriendly environments.
+
+#### Ambition
+
+I am extremely ambitious, with an insatiable appetite to learn everything about everything. I feel like a kid in a sweet shop with all the technologies there are on my to-do list of things to look at next. I want to be excellent at everything I do. I want to be excellent at the full stack. I want to be respected as an expert in my field.
 
 #### Determination and persistence
 
