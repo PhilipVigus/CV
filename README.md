@@ -49,7 +49,6 @@ This helps me to learn quickly, independently and effectively, and allows me to 
   - I taught myself React alongside the standard curriculum.
   - I was regularly given extremely positive feedback by team members and pair partners on how well I facilitated their learning without spoonfeeding them solutions.
   - I mentored two members of a later cohort, helping them get the most out of the course by offering technical and pastoral advice based on my experience.
-- While recovering from ill-health I taught myself to compose and synthesize classical music.
 
 #### Communication
 
