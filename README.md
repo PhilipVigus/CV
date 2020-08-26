@@ -10,10 +10,10 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 | Title                                                             | Description                                                                                                                     | Technologies                                                                                            |
 | :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
-| [Weather](https://github.com/PhilipVigus/weather-app) | An site using a third party API to give the weather forecast in one of thousands of locations around the world | JavaScript, React, Redux, Styled Components, Express, Jest, React Testing Library, Circle CI, Netlify, Heroku
+| [Weather](https://github.com/PhilipVigus/weather-app) | A site using a third party API to give the weather forecast in any one of thousands of locations around the world | JavaScript, React, Redux, Styled Components, Express, Jest, React Testing Library, Circle CI, Netlify, Heroku
 | [Chitter](https://github.com/PhilipVigus/chitter) | A Twitter clone I used to learn Typescript. | Typescript, React, Express, Jest, React Testing Library, PostgresSQL, Circle CI, Netlify, Heroku |
-| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | JavaScript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku |
-| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy. | JavaScript, MongoDB, Express, Node, PUG, Heroku                                              |
+| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Maker's Academy.                                           | JavaScript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku |
+| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Maker's Academy. | JavaScript, MongoDB, Express, Node, PUG, Heroku                                              |
 | [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring.                                                                               | JavaScript, Jasmine, CSS, HTML                                                                          |
 
 ## Skills
@@ -31,12 +31,12 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 ### Non-technical
 
-#### Problem solving
+#### Problem-solving
 
 I have a thorough, methodical approach to solving problems.
-- For example, in my most recent [Weather](https://github.com/PhilipVigus/weather-app) project, I had problems with the initial load time and general responsiveness of the front end. I started by making sure I fully understood the problem, researching guidelines on expected website load times as well as other possible issues. Using the diagnostic tools available in Chrome, I confirmed the issue related to the size of a specific file, and set about working on a solution.
+- For example, in my most recent [Weather](https://github.com/PhilipVigus/weather-app) project, I had problems with the initial load time and general responsiveness of the front end. I started by making sure I fully understood the problem, researching guidelines on expected website load times as well as other possible issues. Using the diagnostic tools available in Chrome, I confirmed the issue related to the size of a specific file and set about working on a solution.
 
-  Rather than go with the first idea I had, I identified and modelled a number of approaches, each with their own pros and cons. These ranged from the most complex solution of implementing a database to hold the data, through to breaking the data down into sub-files and writing a simple server to serve these individually. I implemented a very cut-down version of the latter solution to check whether it was valid, and found it was sufficient for my needs. This avoided having to spend time on the more complex and time-intensive approach completely, as I already knew it was unnecessary. 
+  Rather than go with the first idea I had, I identified and modelled a number of approaches, each with their own pros and cons. These ranged from the most complex solution of implementing a database to hold the data, through to breaking the data down into sub-files and writing a simple server to serve these individually. I implemented a very cut-down version of the latter solution to check whether it was valid and found it was sufficient for my needs. This avoided having to spend time on the more complex and time-intensive approach completely, as I already knew it was unnecessary. 
 
   Lastly, I used TDD to help break the implementation of the chosen solution down into the smallest possible steps, completing it quickly and efficiently. In this particular case, my approach also helped identify a number of issues and edge cases with data the API was sending me that I was able to resolve before they became real problems.
 
@@ -44,8 +44,8 @@ I have a thorough, methodical approach to solving problems.
 
 This helps me to learn quickly, independently and effectively, and allows me to facilitate the learning of those around me.
 
-- Before starting at Makers Academy I created a [Trailers](https://github.com/PhilipVigus/trailers-express) website, teaching myself to build and deploy a full stack project using Express, MongoDB and the PUG templating language.
-- At Makers Academy
+- Before starting at Maker's Academy I created a [Trailers](https://github.com/PhilipVigus/trailers-express) website, teaching myself to build and deploy a full stack project using Express, MongoDB and the PUG templating language.
+- At Maker's Academy
   - I taught myself React alongside the standard curriculum.
   - I was regularly given extremely positive feedback by team members and pair partners on how well I facilitated their learning without spoonfeeding them solutions.
   - I mentored two members of a later cohort, helping them get the most out of the course by offering technical and pastoral advice based on my experience.
@@ -55,13 +55,13 @@ This helps me to learn quickly, independently and effectively, and allows me to 
 
 I excel with verbal and written communication, and am able to break complex concepts down into small chunks so they can be easily discussed and understood.
 
-- At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a say in the direction a project takes, and take pride in my ability to facilitate this.
+- At Maker's Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a say in the direction a project takes, and take pride in my ability to facilitate this.
 - At OCN London I sometimes had to communicate difficult feedback to clients while maintaining strong and constructive working relationships. For example, explaining to hostile teachers why their courses were so poor that their learners could not yet receive their certificates. I then had to work with the same staff to improve their provision and ensure learners were able to progress.
 
 #### High emotional intelligence
 
-I am extremely self-aware, and am able to empathize effectively with others.
-- At the end of one project at Makers Academy there was a split in the group. One side was focused on getting as much done as possible, with one person adding a lot of code that others did not understand. The other side was more interested in ensuring that the work represented the entire group. I identified this problem quickly, and helped the group reach a compromise that everyone was happy with.
+I am extremely self-aware and am able to empathize effectively with others.
+- At the end of one project at Maker's Academy, there was a split in the group. One side was focused on getting as much done as possible, with one person adding a lot of code that others did not understand. The other side was more interested in ensuring that the work represented the entire group. I identified this problem quickly and helped the group reach a compromise that everyone was happy with.
 - I give constructive, critical feedback when pair programming in a non-threatening and helpful way.
 - I quickly identify when I make mistakes and am very receptive to feedback on how to improve.
 
@@ -69,21 +69,21 @@ I am extremely self-aware, and am able to empathize effectively with others.
 
 I have strong leadership skills.
 
-- At Makers Academy I often took leadership roles during critical times and received unanimous positive feedback on my ability to keep groups on task, ensure that all team members had a voice, and help the team reach consensus when there were disagreements. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like.
+- At Maker's Academy I often took leadership roles during critical times and received unanimous positive feedback on my ability to keep groups on task, ensure that all team members had a voice, and help the team reach consensus when there were disagreements. I led our final project for the first couple of days, establishing solid foundations such as a team charter, consensus on the details of the project, and broadly what the two weeks of the project would look like.
 - At OCN London I regularly led teams of moderators when visiting clients. I was responsible for coordinating their efforts and ensuring that work was completed to extremely tight schedules in challenging and sometimes unfriendly environments.
 
 #### Determination and persistence
 
 I don't know when or how to give up.
 
-- During the final project at Makers Academy the group had huge difficulty working out how to test the WebSocket-based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project.
+- During the final project at Maker's Academy, the group had huge difficulty working out how to test the WebSocket-based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project.
 - I spent four years unable to work due to ill-health. Recovery was a long, difficult path with plenty of obstacles, but I never once thought that I would not be able to make it back to full-time employment.
 
 ## Education
 
-#### Makers Academy (March – June 2020)
+#### Maker's Academy (March – June 2020)
 
-Makers Academy is one of the top software development bootcamps in London. Alongside the technical skills I've listed above, it focuses on processes such as TDD/BDD, Agile practices and learning how to learn.
+Maker's Academy is one of the top software development bootcamps in London. Alongside the technical skills I've listed above, it focuses on processes such as TDD/BDD, Agile practices and learning how to learn.
 
 #### University of Exeter (2003 – 2004)
 
