@@ -80,7 +80,6 @@ I am extremely ambitious, with an insatiable appetite to learn everything about 
 I don't know when or how to give up.
 
 - During the final project at Maker's Academy, the group had huge difficulty working out how to test the WebSocket-based components of the code. We spent hours on it without success. I refused to give up, and finally managed to write a successful test on the morning of the last day of the project.
-- I spent four years unable to work due to ill-health. Recovery was a long, difficult path with plenty of obstacles, but I never once thought that I would not be able to make it back to full-time employment.
 
 ## Education
 
