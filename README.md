@@ -2,19 +2,19 @@
 
 | [Portfolio](https://www.philvigus.com/) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus) |
 
-I am a driven, dedicated developer with a degree in Computer Science and a hunger to learn. I spent much of my early career working in education, initially as an ICT teacher before moving into quality assurance, where I worked with organisations across London to improve their educational provision.
+I am a driven, dedicated developer with a degree in Computer Science and a hunger to learn. I initially worked in technology, but my career choices then took me towards more client-facing roles. I then moved into education, initially as an ICT teacher before taking a role in educational quality assurance, where I worked with organisations across London to improve their educational provision.
 
-I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Makers Academy to prepare myself for a career in software development. I love the blend of creative and analytical skills required, and seeing a website grow before my eyes really excites me.
+I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Maker's Academy to prepare myself for a career in software development. I love solving complex problems, and the blend of creative and technological skills required to build an application really excites me.
 
 ## Projects
 
 | Title                                                             | Description                                                                                                                     | Technologies                                                                                            |
 | :---------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------ |
-| [Chitter](https://github.com/PhilipVigus/chitter) | A Twitter clone I used to learn Typescript. | Typescript, React, Express, PostgresSQL, Circle CI, Netlify, Heroku |
-| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | Javascript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku |
-| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy. | Javascript, MongoDB, Express, Node, PUG, Heroku                                              |
-| [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring.                                                                               | Javascript, Jasmine, CSS, HTML                                                                          |
-| [Bank](https://github.com/PhilipVigus/bank-technical-challenge) | A bank account simulator with a command-line interface.                                                                                                              | Javascript, Jasmine                                                         |
+| [Weather](https://weather-phil.netlify.app/) | An site using a third party API to give the weather forecast in one of thousands of locations around the world | JavaScript, React, Redux, Styled Components, Express, Jest, React Testing Library, Circle CI, Netlify, Heroku
+| [Chitter](https://github.com/PhilipVigus/chitter) | A Twitter clone I used to learn Typescript. | Typescript, React, Express, Jest, React Testing Library, PostgresSQL, Circle CI, Netlify, Heroku |
+| [WhatStack](https://github.com/PhilipVigus/WhatStack)              | A cross between WhatsApp and Stack Overflow. Our final group project at Makers Academy.                                           | JavaScript, MongoDB, Express, React, Node, WebSockets, Jest, Auth0, React testing library, Heroku |
+| [Trailers](https://github.com/PhilipVigus/trailers-express)       | A website to help my wife and I shortlist films to watch. The project that started it all, built before starting Makers Academy. | JavaScript, MongoDB, Express, Node, PUG, Heroku                                              |
+| [Bowling Card](https://github.com/PhilipVigus/bowling-challenge)  | A client-side bowling card with automated scoring.                                                                               | JavaScript, Jasmine, CSS, HTML                                                                          |
 
 ## Skills
 
@@ -22,28 +22,23 @@ I have now changed direction, returning to my roots in technology. I recently co
 
 | Area          | Skills                                                |
 | :------------ | :---------------------------------------------------- |
-| Languages     | Javascript, Typescript, Ruby, SQL, CSS, HTML          |
-| Frameworks    | React, Express, Rails, Sinatra                        |
+| Languages     | JavaScript, Typescript, Ruby, SQL, CSS, HTML          |
+| Frameworks    | React, Redux, Express, Rails, Sinatra                        |
 | Databases     | PostgreSQL, MongoDB                                   |
-| Workflow      | Git, Github, Travis CI/CD, Heroku, VSCode             |
+| Workflow      | Git, GitHub, Travis CI, Circle CI, Netlify, Heroku, VSCode             |
 | Testing       | Jest, Jasmine, RSpec, Capybara, React testing library |
 | Methodologies | OOP, MVC, TDD/BDD, Agile/Scrum/XP                     |
 
 ### Non-technical
 
-#### Communication
-
-I excel with verbal and written communication, and am able to break complex concepts down into small chunks so they can be easily discussed and understood.
-
-- At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a say in the direction a project takes, and take pride in my ability to facilitate this.
-- At OCN London I sometimes had to communicate difficult feedback to clients while maintaining strong and constructive working relationships. For example, explaining to hostile teachers why their courses were so poor that their learners could not yet receive their certificates. I then had to work with the same staff to improve their provision and ensure learners were able to progress.
-
 #### Problem solving
 
 I have a thorough, methodical approach to solving problems.
+- For example, in my most recent [Weather](https://weather-phil.netlify.app/) project, I had problems with the initial load time and general responsiveness of the front end. I started by making sure I fully understood the problem, researching guidelines on expected website load times as well as other possible issues. Using the diagnostic tools available in Chrome, I confirmed the issue related to the size of a specific file, and set about working on a solution.
 
-- At Makers Academy I was known for drilling down into an issue or bug, making minimal and incremental changes that I understood the impact of. This made it easier to identify the precise sections of code to focus on.
-- When faced with something I don't understand, or a problem I need to solve, I utilise thorough research skills. I spend time establishing whether someone else has already solved the same or a similar problem. I check official documentation and read around the subject, making sure I fully understand the issue and its context. I then break the problem down into the smallest possible pieces and solve these micro-problems one at a time.
+  Rather than go with the first idea I had, I identified and modelled a number of approaches, each with their own pros and cons. These ranged from the most complex solution of implementing a database to hold the data, through to breaking the data down into sub-files and writing a simple server to serve these individually. I implemented a very cut-down version of the latter solution to check whether it was valid, and found it was sufficient for my needs. This avoided having to spend time on the more complex and time-intensive approach completely, as I already knew it was unnecessary. 
+
+  Lastly, I used TDD to help break the implementation of the chosen solution down into the smallest possible steps, completing it quickly and efficiently. In this particular case, my approach also helped identify a number of issues and edge cases with data the API was sending me that I was able to resolve before they became real problems.
 
 #### An excellent understanding of how learning works
 
@@ -55,6 +50,13 @@ This helps me to learn quickly, independently and effectively, and allows me to 
   - I was regularly given extremely positive feedback by team members and pair partners on how well I facilitated their learning without spoonfeeding them solutions.
   - I mentored two members of a later cohort, helping them get the most out of the course by offering technical and pastoral advice based on my experience.
 - While recovering from ill-health I taught myself to compose and synthesize classical music.
+
+#### Communication
+
+I excel with verbal and written communication, and am able to break complex concepts down into small chunks so they can be easily discussed and understood.
+
+- At Makers Academy I received regular positive feedback about the way I communicated during group projects and in pair programming. I am passionate about ensuring everyone gets a say in the direction a project takes, and take pride in my ability to facilitate this.
+- At OCN London I sometimes had to communicate difficult feedback to clients while maintaining strong and constructive working relationships. For example, explaining to hostile teachers why their courses were so poor that their learners could not yet receive their certificates. I then had to work with the same staff to improve their provision and ensure learners were able to progress.
 
 #### High emotional intelligence
 
