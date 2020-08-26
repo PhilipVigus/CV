@@ -2,9 +2,9 @@
 
 | [Portfolio](https://www.philvigus.com/) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/phil-vigus-8a6568150/) | [Blog](https://medium.com/@philvigus) |
 
-I am a driven, dedicated developer with a degree in Computer Science and a hunger to learn. I initially worked in technology, but my career choices then took me towards more client-facing roles. I then moved into education, initially as an ICT teacher before taking a role in educational quality assurance, where I worked with organisations across London to improve their educational provision.
+I am a driven, dedicated developer with a degree in Computer Science and a hunger to learn. I initially worked in technology, but my career choices took me towards more client-facing roles. I then moved into education, initially as an ICT teacher before taking a role in educational quality assurance, where I worked with organisations across London to improve their educational provision.
 
-I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Maker's Academy to prepare myself for a career in software development. I love solving complex problems, and the blend of creative and technological skills required to build an application really excites me.
+I have now changed direction, returning to my roots in technology. I recently completed the bootcamp at Maker's Academy to prepare myself for a career in software development. I love solving complex problems, and the blend of creative and technological skills required to build an application really excites me. I enjoy developing React user interfaces as much as designing databases and building RESTful APIs, and am currently seeking a full stack role. 
 
 ## Projects
 
