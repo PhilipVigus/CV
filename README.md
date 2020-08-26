@@ -73,7 +73,7 @@ I have strong leadership skills.
 
 #### Ambition
 
-I am extremely ambitious, with an insatiable appetite to learn everything about everything. I feel like a kid in a sweet shop with all the technologies there are on my to-do list of things to look at next. I want to be excellent at everything I do. I want to be excellent at the full stack. I want to be respected as an expert in my field.
+I am extremely ambitious, with an insatiable appetite to learn everything about everything. I feel like a kid in a sweet shop with all the technologies there are on my to-do list of things to look at next. I want to be excellent at everything I do, to be excellent with the full stack. I want to be respected as an expert in my field.
 
 #### Determination and persistence
 
